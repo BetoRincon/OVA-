@@ -20,5 +20,8 @@ fetch('https://bdadmin.000webhostapp.com/wp-json/wp/v2/posts?order=asc&_embed')
             ilist.setAttribute("id", "list-item");
             document.getElementById('list').appendChild(ilist);
             list.appendChild(ilist);
+
+            // dissapera spin
+            document.getElementById('spin-list').style.display = 'none';
         });
     })
