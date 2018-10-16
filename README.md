@@ -34,7 +34,7 @@ Estos pasos deben hacerse siempre que se vaya a iniciar a trabajar, en ese orden
 3. `git commit -m "Mensaje acerca del commit" -a` -> se le asigna un mensaje para identificar los cambios realizados
 4. `git push` -> se envían los cambios al server
 
-****|4| Trabajar en el repo
+***|3| Trabajar en el repo
 
 El Footer y el header se pueden usar en cada una de las páginas.
 Tener precaución con los estilos.
